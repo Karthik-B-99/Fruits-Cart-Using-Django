@@ -1,0 +1,1 @@
+This mini-poject shows how you can create a "fruits-cart" website suing the Django framework. It was implemented by going through a YouTube course "Python Tutorial - Python Full Course for Beginners" by 'Programming With Mosh'. 
